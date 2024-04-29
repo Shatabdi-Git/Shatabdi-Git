@@ -30,6 +30,11 @@
 
 <p align="left">I'm from India<br><br>
   <img align="right" height="300" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*yBvA5CnEX3Sd4aod.gif" />
+ 
+  
+  ###
+  
+  
   - 🌱 I’m currently learning **AI ML<br>-  👀 I’m looking to collaborate on **Frontend Projects<br>- 🤝 I’m looking for help with **Frontend Dev<br>- 💬 Ask me about **Web Development<br>- 💞️ I Belive in Eat >> Sleep >> Code >> "Repeat"😂</p>
 
 
