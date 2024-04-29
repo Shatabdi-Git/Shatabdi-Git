@@ -35,7 +35,7 @@
 
 
 
-<h3 align="left">🛠 I code with</h3>
+<h3 align="left">🛠 I'm familiar with</h3>
 
 <!-- Scripting Section -->
 <!-- <a href="[https://www.python.org](https://www.python.org/)" target="_blank" rel="noreferrer">
